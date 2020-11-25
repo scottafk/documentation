@@ -1,9 +1,4 @@
-
-
-    Docs »
-    Server Configuration File
-
-Server Configuration File
+# Server Configuration File
 
 In this section, we will introduce parameters in the server configuration file. 
 Introduction to the server configuration file

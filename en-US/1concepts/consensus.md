@@ -1,9 +1,19 @@
 
+# Proof-of-Authority Consensus
 
-    Docs »
-    Proof-of-Authority Consensus
+- [Proof-of-Authority Consensus](#proof-of-authority-consensus)
+  - [What is Proof-of-Authority consensus](#what-is-proof-of-authority-consensus)
+  - [Advantages of PoA consensus](#advantages-of-poa-consensus)
+  - [PoA consensus and common attack vectors](#poa-consensus-and-common-attack-vectors)
+    - [Denial-of-service attack](#denial-of-service-attack)
+    - [51 percent attack](#51-percent-attack)
+  - [How PoA consensus works in the IBAX Network](#how-poa-consensus-works-in-the-ibax-network)
+    - [Honor node](#honor-node)
+    - [Leader node](#leader-node)
+    - [Generating new blocks](#generating-new-blocks)
+    - [Forks](#forks)
 
-Proof-of-Authority Consensus
+
 
 - What is Proof-of-Authority consensus
 
@@ -63,7 +73,7 @@ In IBAX, only honor nodes can generate new blocks, which maintain the blockchain
 
 The list of honor nodes is kept in the blockchain registry. The order of nodes determines the sequence in which nodes generate new blocks.
 
-###Leader node
+### Leader node
 
 The following formula determines the current leader node, i.e. a node that must generate a new block at the current time.
 
