@@ -1,7 +1,4 @@
-    Docs »
-    Synchronized Monitoring Tool
-
-Synchronized Monitoring Tool
+# Synchronized Monitoring Tool
 
 Desync_monitor is a special tool that can be used to verify whether the database on the specified node has been synchronized.
 
