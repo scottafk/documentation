@@ -11,7 +11,7 @@
   
 - ## TUTORIAL
   
-- [Tutorial for application development](2tutorials/app_tutorial.md)
+  - [Tutorial for application development](2tutorials/app_tutorial.md)
   
 - ## GUIDE
   
