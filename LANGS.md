@@ -1,7 +1,7 @@
 * [English](en-US)
-* [中文](zh-CN)
-
-<!--
+* [Deutsch](de)
+* [Español](es)
+* [Français](fr)
 * [Português](pt-br)
 * [Italiano](it)
 * [العربية](ar)
@@ -26,5 +26,5 @@
 * [Türkçe](tr)
 * [Tiếng Việt](vi)
 * [漢語](zh-tw)
-* [中文](zh)
--->
+* [中文](zh-CN)
+
