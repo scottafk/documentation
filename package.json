@@ -1,0 +1,14 @@
+{
+	"devDependencies": {
+		"vuepress": "^1.8.2"
+	},
+	"scripts": {
+		"dev": "vuepress dev docs",
+		"build": "vuepress build docs",
+		"cname": "echo docs.ibax.io >> docs/.vuepress/dist/CNAME"
+	},
+	"name": "IBAX-Documentation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT"
+}
